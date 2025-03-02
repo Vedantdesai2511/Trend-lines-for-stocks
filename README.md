@@ -4,7 +4,7 @@ All the traders knows the importance of trend lines. While developing my trading
 
 I search through the internet but found little to no information about genereting accurate trendlines for the given stock for technical analysis.
 
-So, I started working on the solution and came with this solution and decidede to share it with everyone. Hope this can be help to you to develop your trading algorithm.
+So, I started working on the solution and came with this solution and decidede to share it with everyone. Hope this can be of help to develop your trading algorithm.
 
 # Requirements
 * yfinance
